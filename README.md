@@ -5,4 +5,4 @@ PHP ile class olarak hazırlanmış döviz kuru çekme programıdır. Class dosy
 Yararlı olması dileğiyle. İyi Çalışmalar
 
 DEMO: http://alidemirci.net/ornekler/php-doviz-kuru-cekme-sinifi/
-BLOG LİNKİ: http://www.alidemirci.net/php-ile-guncel-doviz-kuru-cekme-sinifi.html
+<br />BLOG LİNKİ: http://www.alidemirci.net/php-ile-guncel-doviz-kuru-cekme-sinifi.html
